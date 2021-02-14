@@ -1,2 +1,2 @@
 # DynamicMemoryOOP
-Practice object oriented programming and dynamic memory 
+Object oriented programming and dynamic memory 
